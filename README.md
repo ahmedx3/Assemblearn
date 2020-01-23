@@ -2,5 +2,5 @@
 An assembly game that teaches assembly language
 
 <p align="center">
-  <img width="460" height="300" src="https://ibb.co/DY0jnLn">
+  <img width="460" height="300" src="https://i.ibb.co/9hQdjGj/Win.png">
 </p>
